@@ -1,6 +1,6 @@
 ---
 marp: true
-theme: dsi-certificates-theme
+theme: dsi_certificates_theme
 _class: invert
 paginate: true
 ---
@@ -17,7 +17,7 @@ img[alt~="center"] {
 # Production: Model Development
 
 ```code
-$ echo "Data Science Institute"
+$ echo "Data Sciences Institute"
 ```
 ---
 
